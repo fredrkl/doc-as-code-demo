@@ -1,3 +1,8 @@
+# v1.0.0 (2026-11-08)
+
+## ✨ New Features
+- [`3b1fd14`](https://github.com/fredrkl/doc-as-code-demo/commit/3b1fd14)  Starting with example
+
 # [v1.3.0](https://github.com/fredrkl/template-base/compare/v1.2.0...v1.3.0) (2025-08-03)
 
 ## ✨ New Features
