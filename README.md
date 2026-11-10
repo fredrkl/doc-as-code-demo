@@ -19,3 +19,12 @@ python3 -m venv .venv
 source .venv/bin/activate
 zensical serve
 ```
+
+## Gotchas
+
+- When you add new folders or files, you need to restart the Zensical server
+  for it to pick up the changes.
+
+## Hosted GH link
+
+<https://fredrkl.github.io/doc-as-code-demo/>.
